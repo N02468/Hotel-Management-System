@@ -1,0 +1,16 @@
+[
+      {
+        "name": "Miami Hotel",
+        "maxcount": 47,
+        "phonenumber": 3212340319,
+        "rentperday": 400000,
+        "imageurls": [
+            "https://images.unsplash.com/photo-1474690455603-a369ec1293f9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1673468921207-641bd97ed220?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1674651240687-92b4ad15d0ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "currentbooking": [],
+        "type": "Delux",
+        "description": "We offer a fast, reliable wireless network access in all rooms. 24/7 ROOM CARING Spoil yourself around the clock - with our 24-hour room services."
+      }
+]

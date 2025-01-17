@@ -1,0 +1,1 @@
+mongodb+srv://luxurystayhospitality:123@test.f7cu1zb.mongodb.net/?retryWrites=true&w=majority&appName=test
